@@ -8,4 +8,4 @@ def get_product_details(prd_id,name,quantity,price):
 
 #Example usage (optional)
 if __name__=="__main__":
-    print(get_product_details("P101","Wireless Mouse",2,550.00))
+    print(get_product_details("P101","Wireless Mouse",2,550))
